@@ -39,7 +39,7 @@
 	}
 }
 ```
-
+- `pip install jupyterlab`
 - `sudo docker cp config.json c0fb34a7929e:/`
 - `sudo docker exec -it c0fb34a7929e bash`
 - `root@c0fb34a7929e:/# pip install jupyterlab`
