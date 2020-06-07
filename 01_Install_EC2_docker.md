@@ -27,7 +27,7 @@
 # 3. Run jupyterlab in docker container
 
 - jupyterlab config`touch config.json`
-```
+```javascript
 {
 	"NotebookApp": {
 		"ip": "*",
