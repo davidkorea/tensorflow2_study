@@ -45,4 +45,10 @@
 - `root@c0fb34a7929e:/# pip install jupyterlab`
 - `root@c0fb34a7929e:/# jupyter lab --config config.json `
 
+- access EC2 public ip:8888 
+
+
+
+
+
 
