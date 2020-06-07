@@ -43,11 +43,11 @@
 - `sudo docker cp config.json c0fb34a7929e:/`
 - `sudo docker exec -it c0fb34a7929e bash`
 - `root@c0fb34a7929e:/# pip install jupyterlab`
-- `root@c0fb34a7929e:/# jupyter lab --config config.json `
+- `root@c0fb34a7929e:/# jupyter lab --config config.json `, 必须后缀json，否则报错
 
 - access EC2 public ip:8888 
 
-
+<img width="600" src="https://user-images.githubusercontent.com/26485327/83982677-764f8200-a963-11ea-9a7c-57174a4c5696.png">
 
 
 
