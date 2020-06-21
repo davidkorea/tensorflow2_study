@@ -39,8 +39,8 @@
 	}
 }
 ```
-- `sudo docker cp config.json c0fb34a7929e:/`
-- `sudo docker exec -it c0fb34a7929e bash`
+- `sudo docker cp config.json df0fa1736140:/`
+- `sudo docker exec -it df0fa1736140 bash`
 - `root@c0fb34a7929e:/# pip install jupyterlab`
 - `root@c0fb34a7929e:/# jupyter lab --config config.json `, 必须后缀json，否则报错
 	```
