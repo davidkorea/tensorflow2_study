@@ -43,8 +43,13 @@
 - `sudo docker exec -it c0fb34a7929e bash`
 - `root@c0fb34a7929e:/# pip install jupyterlab`
 - `root@c0fb34a7929e:/# jupyter lab --config config.json `, 必须后缀json，否则报错
-
+	```
+	[I 07:31:24.903 LabApp] The Jupyter Notebook is running at:
+	[I 07:31:24.903 LabApp] http://df0fa1736140:8888/
+	[I 07:31:24.903 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+	```
 - access EC2 public ip:8888 
+	- if install on local docker, access `127.0.0.1:8888`
 
 <img width="600" src="https://user-images.githubusercontent.com/26485327/83982677-764f8200-a963-11ea-9a7c-57174a4c5696.png">
 
