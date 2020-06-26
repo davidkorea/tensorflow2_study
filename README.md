@@ -1,5 +1,11 @@
 # tensorflow2_study
 
+R-CNN, Fast R-CNN, Faster R-CNN, SSD
+
+
+
+
+
 neraul network
 
 - 国内aliyun pip源`https://mirrors.aliyun.com/pypi/simple/`, 使用国内源本机安装
